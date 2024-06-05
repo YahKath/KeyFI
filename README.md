@@ -1,3 +1,12 @@
+KeyFI is a python project made by YahKath
+KeyFi shows every saved network passwords on computer works on Windows and on Linux 
+Version 1.0 updates in future 
+
+requirements: Python 3.12
+              Colorama 
+Colorama install "pip install colorama" 
+
+
 LINUX
 terminal open and type 
 apt update  && apt upgrade -y 
@@ -18,4 +27,7 @@ Studiovillagesk@gmail.com
 This is a Version 1.0 I will update it sometimes to make it better in version 2.0 is going to be a graphical KeyFI 
 The repeat function is currently not working I will try to fix it in future 
 
-
+SUPPORT 
+Discord YahKath 
+email studiovillagesk@gmail.com
+telegram YahKath 
